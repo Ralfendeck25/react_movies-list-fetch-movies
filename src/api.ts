@@ -1,5 +1,5 @@
 import { MovieData } from './types/MovieData';
-import { ResponseError } from './types/ReponseError'; // Fixed the typo here
+import { ResponseError } from './types/ResponseError'; // Fixed the typo here
 
 const API_URL = 'https://www.omdbapi.com/?apikey=f27c681e';
 
